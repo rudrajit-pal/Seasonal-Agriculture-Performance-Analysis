@@ -1,3 +1,4 @@
+![Seasonal Agriculture Performance Analysis](wide_banner_style_infographic_for_a_project_analy.png)
 # Seasonal Agriculture Performance Analysis
 
 ## Project Overview
