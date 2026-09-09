@@ -40,8 +40,7 @@ The dataset contains information related to:
 - NumPy
 - Matplotlib
 - Seaborn
-- SciPy
-- Google Colab / Jupyter Notebook
+- Google Colab 
 
 ## Key Findings
 
